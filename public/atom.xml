@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[El Fuzzo]]></title>
+  <link href="http://elfuzzo.co.uk/atom.xml" rel="self"/>
+  <link href="http://elfuzzo.co.uk/"/>
+  <updated>2014-07-29T09:12:28+01:00</updated>
+  <id>http://elfuzzo.co.uk/</id>
+  <author>
+    <name><![CDATA[Javi Manzano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sienta Bien Volver]]></title>
+    <link href="http://elfuzzo.co.uk/blog/2014/07/29/sienta-bien-volver/"/>
+    <updated>2014-07-29T09:04:49+01:00</updated>
+    <id>http://elfuzzo.co.uk/blog/2014/07/29/sienta-bien-volver</id>
+    <content type="html"><![CDATA[<p>¿Cuánto tiempo hará desde la última vez que escribí más de tres líneas seguidas en español? Incluso la distribución española del teclado se me hace rara al escribir. Erro una de cada diez veces que tecleo. Creo que seguiré utilizando la distribución inglesa, al menos por ahora.</p>
+
+<p>Dentro de un mes y diez días, habrán transcurrido dos años desde que decidí abandonar España en busca de fortuna – queda más novelesco si lo digo así. La verdad es que pocas son las cosas que echo de menos de España ahora mismo. Los amigos y la familia, desde luego, pero poco más. Alguna cerveza, tal vez.</p>
+
+<p>Sabía que no me costaría demasiado esfuerzo hacerme a este país y así ha sido. Los primeros meses fueron un poco más duros. Te sientes solo (estás solo, en realidad), pero a no ser que seas un bicho raro o se te dé muy mal el inglés, empiezas a conocer gente y haces amigos pronto. Y como durante la mayor parte de mi vida, he tenido la suerte de haberme rodeado de personas estupendas y amigos de esos que duran para siempre.</p>
+
+<h3>Por qué he decidido volver a escribir en español</h3>
+
+<p>Que conste que he intentado escribir en inglés, por activa y por pasiva, pero he terminado no escribiendo en absoluto. Al poco tiempo de llegar aquí decidí que obligarme a escribir en inglés me ayudaría a mejorar rápido en el idioma. Obviamente. Y mejoré, sí, pero empecé a escribir <em>posts</em> más y más cortos.</p>
+
+<p>Fíjate si he escrito posts cortos, que hace poco probé a ver mi blog en un lector RSS y, en lugar de cargar correctamente uno de los <em>posts</em>, cargó en su lugar el encabezado del blog, porque era más largo que el <em>post</em> en sí. Ahí me di cuenta de que el experimento había tocado fondo. No pretendo no volver a escribir en inglés, ni mucho menos, pero tal vez si vuelvo a escribir cosas en español, algún día me vuelva a apetecer escribir de nuevo en inglés. Quiero intentarlo, al menos.</p>
+
+<p>Otro motivo que tengo es que cada vez uso menos el español. Y a pesar de lo poco de acuerdo que esté con muchas de las novedades que incluye la RAE año tras año, éste – sí RAE, sí, di lo que quieras pero ese &ldquo;éste&rdquo; lleva tilde – es mi lenguaje y no pretendo olvidarlo. Hay semanas que casi ni lo hablo o leo y cuando llega el día en el que tengo que utilizarlo extensamente, siento que las expresiones ya no fluyen como antes y que mi sinonimia está hundida en un pozo.</p>
+
+<h3>Sobre qué voy a escribir</h3>
+
+<p>Aún no lo tengo decidido. Quiero volver a escribir algún que otro relato corto, pero me lo tomaré con calma y sin forzarlo. Porque luego salen bodrios que leo dos días después de haberlos escrito y me dan un poco de pena.</p>
+
+<p>Intentaré escribir posts sobre mi vida, tal vez. No es que tenga demasiada experiencia vital, pero viviendo en otro país durante un tiempo, te vas encontrando un poco a la vuelta de cada esquina. Como poco, escribiré desde una perspectiva bastante diferente de la que tenía hace dos años.</p>
+
+<h3>El Fuzzo</h3>
+
+<p>No se me ocurría un nombre para este blog y como mi otro blog, en inglés, se llama Fuzzing the Web, pensé que usar una traducción graciosa y española de <em>Fuzzy</em> – personaje ficticio que hace tiempo un amigo y yo inventamos en honor al mostruo de las galletas cantando <em>Blue Soul</em> de <em>Graveyard</em> – sería buena idea. Ya sabéis la coña, ¿no? Cambiad la terminación de cualquier palabra en inglés por una &ldquo;o&rdquo; y obtendréis una perfecta palabra en español.</p>
+
+<hr />
+
+<p>Hasta aquí mi primera entrada como <em>El Fuzzo</em>. Espero que la próxima sea pronto, sobre algo más interesante.</p>
+]]></content>
+  </entry>
+  
+</feed>
