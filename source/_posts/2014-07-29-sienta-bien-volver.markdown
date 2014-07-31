@@ -3,7 +3,7 @@ layout: post
 title: "Sienta bien volver"
 date: 2014-07-29 09:04:49 +0100
 comments: true
-categories: Miscelánea
+categories: "Miscelánea"
 ---
 
 ¿Cuánto tiempo hará desde la última vez que escribí más de tres líneas seguidas en español? Incluso la distribución española del teclado se me hace rara al escribir. Erro una de cada diez veces que tecleo. Creo que seguiré utilizando la distribución inglesa, al menos por ahora.
